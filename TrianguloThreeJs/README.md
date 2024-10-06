@@ -18,4 +18,5 @@ Nota: Se utilizo un sistema operativo Windows 11 con Node.js instalado
 2) Ejecute el siguiente comando:
 ```npx vite```
 3) Presione ctrl + click sobre el url generado donde se le indica el localhost:
+
 ![alt text](image.png)
